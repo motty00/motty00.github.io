@@ -72,11 +72,11 @@ header {
   height: 65px;
   width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
-  /* position繝励Ο繝代ユ繧｣繧断ixed縺ｫ縲》op繧0縺ｫ謖�ｮ壹＠縺ｦ縺上□縺輔＞ */
+  /* positionプロパティをfixedに、topを0に指定してください */
   position: fixed;
   top: 0;
   
-  /* z-index繧10縺ｫ謖�ｮ壹＠縺ｦ縺上□縺輔＞ */
+  /* z-indexを10に指定してください */
   z-index: 10;
 }
 
